@@ -35,16 +35,6 @@
 
 ---
 
-## 📚 **Certificações**
-
-- **Power BI** – FM2S  
-- **Lean Six Sigma Yellow Belt** – FM2S  
-- **BSC: Gestão de Portfólios** – Alura  
-- **BI com Excel** – Alura  
-- **ISO 9001 Be Ready** – CCBEU  
-
----
-
 ## 🌐 **Vamos nos conectar?**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrieltorre)  
