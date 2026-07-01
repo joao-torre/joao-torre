@@ -23,8 +23,7 @@
 
 ### Linguagens
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ### Business Intelligence
 
@@ -41,10 +40,9 @@
 - Análise de Dados
 - Business Intelligence
 - SQL para análise de dados
-- Automação com Python
 - ETL e transformação de dados
 - Construção de Dashboards
-- Power Query / Power BI
+- Power Query / Power BI / Python
 - Modelagem e limpeza de dados
 - KPIs e indicadores de performance
 - Forecast e planejamento operacional
