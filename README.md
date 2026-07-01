@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o João Torre
+# Olá! Eu sou o João Torre 👋
 
 🎓 Graduando em **Ciência de Dados para Negócios** pela FATEC Votorantim
 
