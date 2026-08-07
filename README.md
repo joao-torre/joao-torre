@@ -50,21 +50,6 @@
 
 ---
 
-# 🎯 Competências
-
-* Análise de Dados
-* Business Intelligence
-* SQL para análise de dados
-* ETL e transformação de dados
-* Modelagem e limpeza de dados
-* Construção de dashboards executivos
-* Power BI, DAX e Power Query
-* Desenvolvimento de indicadores de performance (KPIs)
-* Forecast e planejamento operacional
-* Geração de insights para tomada de decisão
-
----
-
 # 📂 Projetos
 
 Aqui você encontrará projetos relacionados a:
