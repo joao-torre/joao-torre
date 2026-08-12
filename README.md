@@ -61,10 +61,13 @@ Aqui você encontrará projetos relacionados a:
 
 ## 📊 GitHub Stats
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/joao-torre/joao-torre/main/generated/card.svg" alt="João Torre's GitHub Stats" />
-  </p>
-```
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/joao-torre/joao-torre/main/generated/card.svg"
+    alt="João Torre's GitHub Stats"
+  />
+</p>
+
 ---
 
 ## 📫 Contato
