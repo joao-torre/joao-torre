@@ -68,13 +68,13 @@ Aqui você encontrará projetos relacionados a:
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrieltorre&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-torre&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=joaogabrieltorre&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=joao-torre&theme=tokyonight&hide_border=true"
   />
 </p>
 
