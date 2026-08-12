@@ -1,72 +1,123 @@
 <svg width="720" height="460" viewBox="0 0 720 460" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#2563EB"/>
       <stop offset="100%" stop-color="#3B82F6"/>
     </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
     <style>
-      .title { font: 700 22px Arial, sans-serif; fill: #F8FAFC; }
-      .subtitle { font: 400 13px Arial, sans-serif; fill: #94A3B8; }
-      .label { font: 600 12px Arial, sans-serif; fill: #94A3B8; }
-      .value { font: 700 30px Arial, sans-serif; fill: #F8FAFC; }
-      .head { font: 700 13px Arial, sans-serif; fill: #3B82F6; }
-      .small { font: 400 11px Arial, sans-serif; fill: #94A3B8; }
-      .lang { font: 600 12px Arial, sans-serif; fill: #F8FAFC; }
+      .title { font: 700 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F8FAFC; }
+      .subtitle { font: 400 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #94A3B8; }
+      .label { font: 600 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #94A3B8; letter-spacing: .04em; text-transform: uppercase; }
+      .value { font: 700 30px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F8FAFC; }
+      .streakNum { font: 700 34px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #3B82F6; }
+      .streakLbl { font: 600 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #94A3B8; }
+      .langName { font: 600 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F8FAFC; }
+      .langPct { font: 400 11px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #94A3B8; }
+      .sectionHead { font: 700 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #3B82F6; letter-spacing: .06em; text-transform: uppercase; }
     </style>
   </defs>
 
-  <rect x="1" y="1" width="718" height="458" rx="18" fill="#020617" stroke="#071A35" stroke-width="2"/>
-  <rect x="1" y="1" width="718" height="458" rx="18" fill="none" stroke="url(#accent)" opacity=".35"/>
+  <rect x="1" y="1" width="718" height="458" rx="18"
+        fill="url(#bg)" stroke="#071A35" stroke-width="1.5"/>
+
+  <rect x="1" y="1" width="718" height="458" rx="18"
+        fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.35"/>
 
   <text x="32" y="46" class="title">João Torre</text>
   <text x="32" y="66" class="subtitle">Analista de Planejamento de Cobrança · Ciência de Dados</text>
-  <line x1="32" y1="82" x2="688" y2="82" stroke="#071A35"/>
 
-  <rect x="32" y="102" width="200" height="92" rx="12" fill="#071A35"/>
-  <rect x="248" y="102" width="200" height="92" rx="12" fill="#071A35"/>
-  <rect x="464" y="102" width="224" height="92" rx="12" fill="#071A35"/>
+  <line x1="32" y1="82" x2="688" y2="82"
+        stroke="#071A35" stroke-width="1"/>
 
-  <text x="52" y="132" class="label">REPOSITÓRIOS</text>
-  <text x="52" y="168" class="value">3</text>
-  <text x="268" y="132" class="label">COMMITS (ANO)</text>
-  <text x="268" y="168" class="value">142</text>
-  <text x="484" y="132" class="label">STARS</text>
-  <text x="484" y="168" class="value">6</text>
+  <g>
+    <rect x="32" y="102" width="200" height="92" rx="12"
+          fill="#071A35" stroke="#071A35"/>
 
-  <rect x="32" y="214" width="330" height="220" rx="14" fill="#071A35"/>
-  <text x="52" y="246" class="head">STREAK DE CONTRIBUIÇÕES</text>
-  <circle cx="197" cy="340" r="62" fill="none" stroke="#020617" stroke-width="10"/>
-  <circle cx="197" cy="340" r="62" fill="none" stroke="url(#accent)" stroke-width="10"
-          stroke-linecap="round" stroke-dasharray="389.5" stroke-dashoffset="389.5"
-          transform="rotate(-90 197 340)"/>
-  <text x="197" y="335" text-anchor="middle" class="value">0</text>
-  <text x="197" y="357" text-anchor="middle" class="small">dias seguidos</text>
-  <text x="52" y="414" class="small">Maior streak: 0 dias</text>
+    <rect x="248" y="102" width="200" height="92" rx="12"
+          fill="#071A35" stroke="#071A35"/>
 
-  <rect x="378" y="214" width="310" height="220" rx="14" fill="#071A35"/>
-  <text x="398" y="246" class="head">LINGUAGENS MAIS USADAS</text>
+    <rect x="464" y="102" width="224" height="92" rx="12"
+          fill="#071A35" stroke="#071A35"/>
 
-  <rect x="398" y="266" width="270" height="14" rx="7" fill="#020617"/>
-  <rect x="398" y="266" width="120" height="14" rx="7" fill="#2563EB"/>
-  <rect x="518" y="266" width="72" height="14" fill="#60A5FA"/>
-  <rect x="590" y="266" width="48" height="14" fill="#3B82F6"/>
-  <rect x="638" y="266" width="30" height="14" rx="7" fill="#94A3B8"/>
+    <text x="52" y="132" class="label">Repositórios</text>
+    <text x="52" y="168" class="value">3</text>
 
-  <circle cx="398" cy="306" r="5" fill="#2563EB"/>
-  <text x="410" y="310" class="lang">Python</text>
-  <text x="500" y="310" class="small">44%</text>
+    <text x="268" y="132" class="label">Commits (ano)</text>
+    <text x="268" y="168" class="value">78</text>
 
-  <circle cx="398" cy="334" r="5" fill="#60A5FA"/>
-  <text x="410" y="338" class="lang">SQL</text>
-  <text x="500" y="338" class="small">27%</text>
+    <text x="484" y="132" class="label">Stars</text>
+    <text x="484" y="168" class="value">0</text>
+  </g>
 
-  <circle cx="548" cy="306" r="5" fill="#3B82F6"/>
-  <text x="560" y="310" class="lang">DAX</text>
-  <text x="650" y="310" class="small">18%</text>
+  <g transform="translate(32,214)">
+    <rect x="0" y="0" width="330" height="220" rx="14"
+          fill="#071A35" stroke="#071A35"/>
 
-  <circle cx="548" cy="334" r="5" fill="#94A3B8"/>
-  <text x="560" y="338" class="lang">Outros</text>
-  <text x="650" y="338" class="small">11%</text>
+    <text x="20" y="30" class="sectionHead">
+      Streak de contribuições
+    </text>
 
-  <text x="398" y="382" class="small">Distribuição por repositório</text>
+    <g transform="translate(90,60)">
+      <circle cx="75" cy="75" r="62"
+              fill="none" stroke="#020617" stroke-width="10"/>
+
+      <circle cx="75" cy="75" r="62"
+              fill="none" stroke="url(#accent)" stroke-width="10"
+              stroke-linecap="round"
+              stroke-dasharray="389.5"
+              stroke-dashoffset="350.6"
+              transform="rotate(-90 75 75)"
+              filter="url(#glow)"/>
+
+      <text x="75" y="70" text-anchor="middle" class="streakNum">
+        3
+      </text>
+
+      <text x="75" y="92" text-anchor="middle" class="streakLbl">
+        dias seguidos
+      </text>
+    </g>
+
+    <text x="20" y="200" class="langPct">
+      Maior streak: 3 dias
+    </text>
+  </g>
+
+  <g transform="translate(378,214)">
+    <rect x="0" y="0" width="310" height="220" rx="14"
+          fill="#071A35" stroke="#071A35"/>
+
+    <text x="20" y="30" class="sectionHead">
+      Linguagens mais usadas
+    </text>
+
+    <rect x="20" y="50" width="270" height="14" rx="7"
+          fill="#020617"/>
+
+    <rect x="20.0" y="50" width="135.0" height="14" fill="#3572A5"/><rect x="155.0" y="50" width="135.0" height="14" fill="#f1e05a"/><rect x="290.0" y="50" width="0.0" height="14" fill="#071A35"/><rect x="290.0" y="50" width="0.0" height="14" fill="#071A35"/>
+
+    <circle cx="26" cy="96" r="5" fill="#3572A5"/><text x="38" y="100" class="langName">Python</text><text x="120" y="100" class="langPct">50%</text><circle cx="26" cy="126" r="5" fill="#f1e05a"/><text x="38" y="130" class="langName">JavaScript</text><text x="120" y="130" class="langPct">50%</text><circle cx="166" cy="96" r="5" fill="#071A35"/><text x="178" y="100" class="langName">—</text><text x="260" y="100" class="langPct">0%</text><circle cx="166" cy="126" r="5" fill="#071A35"/><text x="178" y="130" class="langName">—</text><text x="260" y="130" class="langPct">0%</text>
+
+    <text x="20" y="172" class="langPct">
+      Distribuição por repositório
+    </text>
+  </g>
+
+  <text x="688" y="446" text-anchor="end" class="langPct" opacity="0.6">
+    github.com/joao-torre
+  </text>
 </svg>
