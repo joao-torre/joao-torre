@@ -1,4 +1,4 @@
-# João Gabriel Torre 👋
+# Olá, sou João Torre 👋
 
 🎓 Graduando em **Ciência de Dados para Negócios** pela FATEC Votorantim.
 
