@@ -65,17 +65,25 @@ Aqui você encontrará projetos relacionados a:
   <a href="https://github.com/joao-torre">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=joao-torre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=joao-torre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
       alt="João Torre's GitHub Stats"
     />
   </a>
   <a href="https://github.com/joao-torre">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-torre&layout=compact&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-torre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
       alt="João Torre's Top Languages"
     />
   </a>
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=joao-torre&theme=tokyonight&hide_border=true"
+    alt="João Torre's GitHub Streak"
+  />
 </p>
 
 ---
