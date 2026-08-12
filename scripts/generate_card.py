@@ -166,10 +166,10 @@ def render_svg(stats):
         x += width
 
     legend_positions = [
-        (26, 90),
-        (26, 116),
-        (160, 90),
-        (160, 116),
+        (26, 96),
+        (26, 126),
+        (166, 96),
+        (166, 126),
     ]
 
     legend = []
@@ -181,7 +181,7 @@ def render_svg(stats):
             f'<circle cx="{lx}" cy="{ly}" r="5" fill="{escape(color)}"/>'
             f'<text x="{lx + 12}" y="{ly + 4}" class="langName">'
             f'{escape(name)}</text>'
-            f'<text x="{lx + 76}" y="{ly + 4}" class="langPct">'
+            f'<text x="{lx + 94}" y="{ly + 4}" class="langPct">'
             f'{pct:.0f}%</text>'
         )
 
@@ -303,12 +303,8 @@ def render_svg(stats):
 
     {''.join(legend)}
 
-    <text x="20" y="170" class="langPct">
-      Atualizado automaticamente via GitHub Actions
-    </text>
-
-    <text x="20" y="190" class="langPct">
-      {escape(stats["username"])} · gerado em {stats["generated_at"]}
+    <text x="20" y="172" class="langPct">
+      Distribuição por repositório
     </text>
   </g>
 
