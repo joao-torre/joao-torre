@@ -79,12 +79,12 @@
               fill="none" stroke="url(#accent)" stroke-width="10"
               stroke-linecap="round"
               stroke-dasharray="389.5"
-              stroke-dashoffset="350.6"
+              stroke-dashoffset="389.5"
               transform="rotate(-90 75 75)"
               filter="url(#glow)"/>
 
       <text x="75" y="70" text-anchor="middle" class="streakNum">
-        3
+        0
       </text>
 
       <text x="75" y="92" text-anchor="middle" class="streakLbl">
