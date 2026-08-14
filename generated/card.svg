@@ -57,7 +57,7 @@
     <text x="52" y="168" class="value">3</text>
 
     <text x="268" y="132" class="label">Commits (ano)</text>
-    <text x="268" y="168" class="value">78</text>
+    <text x="268" y="168" class="value">79</text>
 
     <text x="484" y="132" class="label">Stars</text>
     <text x="484" y="168" class="value">0</text>
@@ -93,7 +93,7 @@
     </g>
 
     <text x="20" y="200" class="langPct">
-      Maior streak: 3 dias
+      Maior streak: 4 dias
     </text>
   </g>
 
