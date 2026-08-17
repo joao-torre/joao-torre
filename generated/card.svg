@@ -57,7 +57,7 @@
     <text x="52" y="168" class="value">3</text>
 
     <text x="268" y="132" class="label">Commits (ano)</text>
-    <text x="268" y="168" class="value">79</text>
+    <text x="268" y="168" class="value">80</text>
 
     <text x="484" y="132" class="label">Stars</text>
     <text x="484" y="168" class="value">0</text>
@@ -79,12 +79,12 @@
               fill="none" stroke="url(#accent)" stroke-width="10"
               stroke-linecap="round"
               stroke-dasharray="389.5"
-              stroke-dashoffset="389.5"
+              stroke-dashoffset="376.5"
               transform="rotate(-90 75 75)"
               filter="url(#glow)"/>
 
       <text x="75" y="70" text-anchor="middle" class="streakNum">
-        0
+        1
       </text>
 
       <text x="75" y="92" text-anchor="middle" class="streakLbl">
