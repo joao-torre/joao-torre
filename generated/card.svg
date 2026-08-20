@@ -57,7 +57,7 @@
     <text x="52" y="168" class="value">5</text>
 
     <text x="268" y="132" class="label">Commits (ano)</text>
-    <text x="268" y="168" class="value">92</text>
+    <text x="268" y="168" class="value">94</text>
 
     <text x="484" y="132" class="label">Stars</text>
     <text x="484" y="168" class="value">3</text>
@@ -108,9 +108,9 @@
     <rect x="20" y="50" width="270" height="14" rx="7"
           fill="#020617"/>
 
-    <rect x="20.0" y="50" width="135.0" height="14" fill="#3572A5"/><rect x="155.0" y="50" width="67.5" height="14" fill="#f1e05a"/><rect x="222.5" y="50" width="67.5" height="14" fill="#DA5B0B"/><rect x="290.0" y="50" width="0.0" height="14" fill="#071A35"/>
+    <rect x="20.0" y="50" width="162.0" height="14" fill="#3572A5"/><rect x="182.0" y="50" width="54.0" height="14" fill="#f1e05a"/><rect x="236.0" y="50" width="54.0" height="14" fill="#DA5B0B"/><rect x="290.0" y="50" width="0.0" height="14" fill="#071A35"/>
 
-    <circle cx="26" cy="96" r="5" fill="#3572A5"/><text x="38" y="100" class="langName">Python</text><text x="120" y="100" class="langPct">50%</text><circle cx="26" cy="126" r="5" fill="#f1e05a"/><text x="38" y="130" class="langName">JavaScript</text><text x="120" y="130" class="langPct">25%</text><circle cx="166" cy="96" r="5" fill="#DA5B0B"/><text x="178" y="100" class="langName">Jupyter Notebook</text><text x="260" y="100" class="langPct">25%</text><circle cx="166" cy="126" r="5" fill="#071A35"/><text x="178" y="130" class="langName">—</text><text x="260" y="130" class="langPct">0%</text>
+    <circle cx="26" cy="96" r="5" fill="#3572A5"/><text x="38" y="100" class="langName">Python</text><text x="120" y="100" class="langPct">60%</text><circle cx="26" cy="126" r="5" fill="#f1e05a"/><text x="38" y="130" class="langName">JavaScript</text><text x="120" y="130" class="langPct">20%</text><circle cx="166" cy="96" r="5" fill="#DA5B0B"/><text x="178" y="100" class="langName">Jupyter Notebook</text><text x="260" y="100" class="langPct">20%</text><circle cx="166" cy="126" r="5" fill="#071A35"/><text x="178" y="130" class="langName">—</text><text x="260" y="130" class="langPct">0%</text>
 
     <text x="20" y="172" class="langPct">
       Distribuição por repositório
