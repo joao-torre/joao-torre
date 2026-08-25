@@ -10,19 +10,19 @@ Desenvolvo análises, indicadores, automações e soluções de BI para apoiar d
 
 ## 💻 O que eu faço?
 
--📊 Business Intelligence: dashboards, indicadores e modelos analíticos utilizando Power BI, DAX, Power Query e Excel
+-📊 **Business Intelligence:** dashboards, indicadores e modelos analíticos utilizando Power BI, DAX, Power Query e Excel
 
--🗄️ Data Analytics: extração, tratamento e análise de dados utilizando SQL, Oracle e Amazon Athena
+-🗄️ **Data Analytics:** extração, tratamento e análise de dados utilizando SQL, Oracle e Amazon Athena
 
--🐍 Automação: desenvolvimento de rotinas analíticas utilizando Python, Pandas e Power Query
+-🐍 **Automação:** desenvolvimento de rotinas analíticas utilizando Python, Pandas e Power Query
 
--💳 Credit & Financial Analytics: análises aplicadas a crédito, cobrança, recuperação e performance
+-💳 **Credit & Financial Analytics:** análises aplicadas a crédito, cobrança, recuperação e performance
 
--📈 Performance & Forecasting: construção e acompanhamento de KPIs para planejamento e tomada de decisão
+-📈 **Performance & Forecasting:** construção e acompanhamento de KPIs para planejamento e tomada de decisão
 
--☁️ Modern Data Analytics: conhecimentos em Microsoft Fabric, AWS, S3 e Athena
+-☁️ **Modern Data Analytics:** conhecimentos em Microsoft Fabric, AWS, S3 e Athena
 
--🚀 Business Insights: transformação de dados em informações para apoiar decisões estratégicas
+-🚀 **Business Insights:** transformação de dados em informações para apoiar decisões estratégicas
 
 ---
 
