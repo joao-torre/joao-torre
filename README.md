@@ -2,18 +2,21 @@
 
 🎓 Graduando em **Ciência de Dados para Negócios** pela FATEC Votorantim.
 
-💼 Atualmente atuo como **Analista de Planejamento de Cobrança no Banco Afinz**, desenvolvendo análises de dados, indicadores de performance e soluções orientadas ao negócio para apoiar decisões estratégicas e otimizar processos.
+💼 Analista de Planejamento de Cobrança no Banco Afinz, atuando na interseção entre Dados, Business Intelligence e Negócios.
+    
+Desenvolvo análises, indicadores, automações e soluções de BI para apoiar decisões e melhorar processos, com experiência em crédito, cobrança, performance operacional e planejamento.
 
 ---
 
 ## 💻 O que eu faço?
 
-- 📈 Desenvolvimento de dashboards executivos e indicadores estratégicos utilizando Power BI
-- 🗄️ Extração, tratamento e análise de dados utilizando Oracle SQL e Amazon Athena
-- 🐍 Automação de processos analíticos utilizando Python e Power Query
-- 📊 Construção e acompanhamento de KPIs para suporte à tomada de decisão
-- 📉 Análises de performance operacional, planejamento e forecasting
-- 🚀 Identificação de oportunidades de melhoria através de dados
+📊 Business Intelligence: dashboards, indicadores e modelos analíticos utilizando Power BI, DAX, Power Query e Excel
+🗄️ Data Analytics: extração, tratamento e análise de dados utilizando SQL, Oracle e Amazon Athena
+🐍 Automação: desenvolvimento de rotinas analíticas utilizando Python, Pandas e Power Query
+💳 Credit & Financial Analytics: análises aplicadas a crédito, cobrança, recuperação e performance
+📈 Performance & Forecasting: construção e acompanhamento de KPIs para planejamento e tomada de decisão
+☁️ Modern Data Analytics: conhecimentos em Microsoft Fabric, AWS, S3 e Athena
+🚀 Business Insights: transformação de dados em informações para apoiar decisões estratégicas
 
 ---
 
